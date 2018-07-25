@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 <br><br><br><br><br>
 
 # Data Management for Advanced Research: Managing Your Data
@@ -17,7 +12,7 @@ output:
 * UCLA Library Data Science Center / Social Science Data Archive  
 * The role of data in your research  
 * Reference and Data Discovery  
-* Resources, tools and support available to students at UCLA  
+* Resources, tools and support available to researchers and students at UCLA  
 * Publishing and Data Management Plans  
 
 .footnote[Graduate Writing Center    Summer 2018]
@@ -25,10 +20,10 @@ output:
 
 ## UCLA Library Data Science Center 
 ### (formally: Social Science Data Archive)
-### YRL 20136, 2nd floor
+### YRL 21536, 2nd floor
 * Part of UCLA since 1961   
-* [About the Data Archive](https://www.library.ucla.edu/social-science-data-archive/about-data-archive)  
-* Bacame part of the library in 2014.
+* About the Data Archive [https://www.library.ucla.edu/social-science-data-archive/about-data-archive](https://www.library.ucla.edu/social-science-data-archive/about-data-archive)  
+* Re-organized into the UCLA Library in 2014.
 * Services available to all UCLA faculty and students
 * Holdings include public opinion polls, census data, crime stats, political and social behavior, etc.  
 
